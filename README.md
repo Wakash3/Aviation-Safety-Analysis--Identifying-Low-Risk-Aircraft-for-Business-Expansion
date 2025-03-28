@@ -1,5 +1,4 @@
   # Aviation Safety Analysis: Identifying Low-Risk Aircraft for Business Expansion
-    ![alt text](Analyzing Aviation Accident Data for Aircraft Purchasing Decisions_image.png)
 
   ## Overview
 
@@ -24,7 +23,7 @@
   # Data Understanding and Analysis
 
   ## Source of Data
-  This analysis uses the National Transportation Safety Board (NTSB) Aviation Accident Database, containing aviation accident data from 1962 to 2023 for civil aviation accidents and selected incidents in the United States and international waters. The  National Transportation Safety Board (NTSB) publish raw data in https://www.ntsb.gov/_layouts/ntsb aviation/index.a1px.
+  This analysis uses the National Transportation Safety Board (NTSB) Aviation Accident Database, containing aviation accident data from 1962 to 2023 for civil aviation accidents and selected incidents in the United States and international waters. The  National Transportation Safety Board (NTSB) publish raw data in https://www.ntsb.gov/_layouts/ntsb aviation/index.aspx.
 
   ## Description of Data
  * The dataset includes:
@@ -38,12 +37,13 @@
 # Key Visualizations
 
 ## 1. Aircraft Model safety comparison
-![alt text](<Analyzing Aviation Accident Data for Aircraft Purchasing Decisions_image.png/Aircraft model safety comparison_image.png>)
+![alt text](<Aircraft Model safety comparison.png.jpg>)
 
 This visualization compares safety records across popular aircraft models, showing accident rates per 100,000 flight hours. The analysis reveals that certain models, including the Cessna 172, Diamond DA40, and Cirrus SR22, demonstrate significantly lower accident rates when normalized for usage frequency.
 
 ## 2. Aircraft Age vs. Accident Severity
-![alt text](<Aircraft Age vs. Accident Severity_image.png>)
+![alt text](<Aircraft Damage Event Severity Heatmap_image.png>)
+
 
 This chart illustrates the relationship between aircraft age and accident severity. The data shows a clear U-shaped curve where both very new aircraft (0-3 years) and older aircraft (18+ years) experience higher fatality rates during accidents, while mid-life aircraft (8-17 years) demonstrate optimal safety performance.
 
@@ -62,7 +62,8 @@ Visualization Highlights:
 * Comparative analysis of event impacts
 
 ## 5.  Flight Phase Risk Profile
-![alt text](<Flight Phase Risk Profile_image.png>)
+![alt text](<Flight Phase RiskProfile.png.jpg>)
+
 
 Key Insights:
 
@@ -70,7 +71,8 @@ Risk distribution across takeoff, cruise, approach, and landing phases
 Frequency and severity of critical events in each flight phase
 
 ## 6. Event Destructiveness Comparison
-![alt text](<Event Destructiveness Comparison_image.png>)
+![alt text](<Photographic Print_ Lightning Strike on Aircraft _ 12x9in.jpg>)
+
 
 Comparative Analysis:
 
