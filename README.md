@@ -155,11 +155,8 @@ Landing Phase:
 # Interactive Dashboard
 The interactive Tableau dashboard allows one to explore aircraft safety data across multiple dimensions. One can filter by aircraft categories, date ranges, and operational factors to investigate specific aspects of aviation safety.
 
-[text](<Aviation Safety Data Analysis Dashboard>)
-[text](<Hailstorm prediction_Dashboard>)
 
-[text](<Wind shear Alerts_Dashboard>)
-[text](<Turbulence Forecasting_Dashboard>)
+View the interactive [Tableau Dashboard](https://public.tableau.com/app/profile/bernice.kigochi/viz/aviationsafetyanalysistableauProject/Dashboard1?publish=yes)
 
 # Next Steps
 * Incorporate additional data sources, including flight hour data per aircraft model to further normalize safety metrics
